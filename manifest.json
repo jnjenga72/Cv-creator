@@ -1,20 +1,15 @@
 {
-    "name": "CV Creator Professional",
-    "short_name": "CV Creator",
-    "start_url": "./index.html",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#3498db",
-    "icons": [
-        {
-            "src": "https://cdn-icons-png.flaticon.com/512/942/942748.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "https://cdn-icons-png.flaticon.com/192/942/942748.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        }
-    ]
+  "name": "Interactive CV Creator",
+  "short_name": "CVMaker",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/942/942748.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
